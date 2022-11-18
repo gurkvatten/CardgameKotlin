@@ -1,2 +1,2 @@
 # CardgameKotlin
-![alt text](https://www.figma.com/file/squdUvjCdhYo2IDBtsS1I3/Untitled?node-id=0%3A1&t=tIA4VdIZ0GBnVrEE-1)
+![alt text](https://github.com/gurkvatten/CardgameKotlin/blob/main/iPhone%2014%20-%203.png)
