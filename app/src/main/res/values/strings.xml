@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">War! the cardgame</string>
+    <string name="textview">This is the card game war but shortened to only ten rounds.
+        First to ten wins.</string>
+    <string name="textview2">a</string>
+    <string name="endButton">Play again?</string>
+</resources>
